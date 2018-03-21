@@ -1,0 +1,7 @@
+Autor: raphalc
+branch: feature#2
+dia 1;
+Desenvolvimento de código da feature #2;
+commit para feature2
+merge na dev local;
+push origin - merge na dev remota.
