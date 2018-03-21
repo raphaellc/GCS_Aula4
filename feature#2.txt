@@ -5,3 +5,16 @@ Desenvolvimento de código da feature #2;
 commit para feature2
 merge na dev local;
 push origin - merge na dev remota.
+Dia 2:
+Pull dev origin 
+Checkout da feature#
+Merge do dev na feature#2
+Continua o desenvolvimento
+Testa (Verifica)
+Valida
+Commit na feature #2
+Push origin feature#2
+checkout dev
+merge feature#2 na dev!
+
+ 
