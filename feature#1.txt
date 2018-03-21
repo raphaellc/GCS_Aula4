@@ -7,3 +7,17 @@ merge na dev
 submissão parcial da featrue para a dev remota, afim de possibilitar novas colaborações na feature
 e testes de integração considerando aspectos da feature.
 
+dia2:
+Atualizamos a dev do remoto;
+Atualizamos a feature#1 a partir da dev;
+continuamos o desenvolvimento da feature
+concluimos o desenvolvimento da feature;
+testamos localmente - unidade e integração;
+resolvenos bugs críticos e maiores;
+validada e verificada;
+
+conclusao da feature:
+commit para branch feature#1 local
+push origin - envia para a feature#1 remota
+merge com a branche dev local
+push origin - envia para a dev remota.
