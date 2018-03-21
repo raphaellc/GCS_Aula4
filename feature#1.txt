@@ -1,0 +1,9 @@
+Autor: raphaellc
+branch: feature#1
+dia 1;
+Desenvolvimento de código da feature#1;
+commit para feature
+merge na dev
+submissão parcial da featrue para a dev remota, afim de possibilitar novas colaborações na feature
+e testes de integração considerando aspectos da feature.
+
