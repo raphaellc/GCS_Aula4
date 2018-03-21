@@ -1,4 +1,9 @@
-//Autor: Raphael
+//Autor: Raphaellc
 //Tema: Utilizando Branches por Etapa de Desenvolvimento com um Repositório Central;
-Branches Criadas - Master;
+1-Branches Criadas - master - dev;
+1-Trabalhador Dev - Raphaellc
+1-Criacao da branch dev - local;
+1-Publicação da branch dev no repositório remoto.
+1-Realizar o desenvolvimento das features e integração das mesmas nesta linha de desenvolvimento.
 
+ 
