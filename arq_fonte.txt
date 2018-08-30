@@ -5,5 +5,6 @@
 1-Criacao da branch dev - local;
 1-Publicação da branch dev no repositório remoto.
 1-Realizar o desenvolvimento das features e integração das mesmas nesta linha de desenvolvimento.
+2-2018/2
 
  
